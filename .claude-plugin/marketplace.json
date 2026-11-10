@@ -7,8 +7,9 @@
   "plugins": [
     {
       "name": "three-ws-knock",
-      "source": "./plugin",
+      "source": "./plugins/three-ws-knock",
       "description": "Reach a real person through their priced three.ws door from the CLI or JS, with an explicit confirmation before any spend.",
+      "category": "development",
       "tags": [
         "knock",
         "x402",

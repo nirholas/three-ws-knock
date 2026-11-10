@@ -6,8 +6,8 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/three-ws-knock",
-  "license": "Apache-2.0",
   "homepage": "https://nirholas.github.io/three-ws-knock/",
+  "license": "Apache-2.0",
   "keywords": [
     "knock",
     "x402",
